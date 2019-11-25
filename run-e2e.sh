@@ -39,7 +39,7 @@ sleep 3m
 
 # Download and set the list of test image repositories to use.
 curl \
-  https://raw.githubusercontent.com/kubernetes-sigs/windows-testing/master/images/image-repo-list \
+  https://raw.githubusercontent.com/yliaog/gce-k8s-windows-testing/master/image-repo-list \
   -o ${WORKSPACE}/repo-list.yaml
 export KUBE_TEST_REPO_LIST=${WORKSPACE}/repo-list.yaml
 
