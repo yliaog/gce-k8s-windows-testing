@@ -1,0 +1,9 @@
+dockerLibraryRegistry: gcr.io/gke-windows-testing
+e2eRegistry: gcr.io/gke-windows-testing
+etcdRegistry: gcr.io/gke-windows-testing
+gcRegistry: gcr.io/gke-windows-testing
+hazelcastRegistry: gcr.io/gke-windows-testing
+PrivateRegistry: gcr.io/gke-windows-testing
+sampleRegistry: gcr.io/gke-windows-testing
+stormRegistry: gcr.io/gke-windows-testing
+zookeeperRegistry: gcr.io/gke-windows-testing
